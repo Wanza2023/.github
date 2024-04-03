@@ -1,9 +1,7 @@
 
 
 <div align="center">
-<a href="http://dmarketmall.com/">
 <img width="40%" src="https://github.com/Wanza2023/Travelog-front/blob/dev/src/assets/images/travelog_logo_new.png?raw=true" alt="Dmarket 이동하기"/>
-</a>
 <p>🚞 국내 여행 블로그 웹서비스 <i>Travelog</i></p>
 </div>
 
